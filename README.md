@@ -11,9 +11,9 @@ AffirmAI is a web application that generates personalized daily affirmations bas
 - **Simple Interface**: Easy-to-use design that works on both desktop and mobile
 - **One-Click Copy**: Easily copy your affirmation to share or save for later
 
-## Screenshot
+## Screenshot (different from template)
 
-![AffirmAI Screenshot](https://via.placeholder.com/800x450.png?text=AffirmAI+Screenshot)
+![AffirmAI Screenshot](ss.png)
 
 ## Installation
 

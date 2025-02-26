@@ -26,7 +26,7 @@ AffirmAI is a web application that generates personalized daily affirmations bas
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/AffirmAI.git
+   git clone https://github.com/doudol/AffirmAI.git
    cd AffirmAI
    ```
 

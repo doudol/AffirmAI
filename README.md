@@ -1,4 +1,5 @@
 # AffirmAI - Daily Affirmation Generator
+## <span class="logo-icon"><img src="logo.jpeg" alt="Logo" width="180" height="180"></span>
 A simple web app that creates personalized affirmations using AI.
 
 ## How to Use
